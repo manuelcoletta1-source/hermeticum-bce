@@ -1,89 +1,84 @@
-# HERMETICUM B.C.E. — Portal
-
-**HERMETICUM B.C.E.** (*Blindata · Computabile · Evolutiva*) è il **portale di accesso ufficiale**
-all’ecosistema tecnico-giuridico fondato su **identità verificabili (IPR)**,
-**servizi modulari** e **stack software opponibili**.
-
-Questo repository ospita **esclusivamente la vetrina pubblica (GitHub Pages)** e funge da
-**indice stabile e coordinatore** verso tutti i sottosistemi attivi.
-
-👉 Qui **non vive codice esecutivo**.
+# Hermeticum B.C.E.
+## European Digital Infrastructure
 
 ---
 
-## 🎯 Funzione del Repository
+## Cos’è Hermeticum B.C.E.
+**Hermeticum B.C.E.** è un’infrastruttura digitale europea modulare
+progettata per rendere **identità, operazioni e sicurezza**
+**verificabili, tracciabili e opponibili nel tempo**.
 
-Questo repository ha una funzione chiara e unica:
-
-- fornire un **entry point stabile**
-- usare **IPR** come chiave d’accesso
-- indirizzare in modo ordinato verso **Services**, **Technology** e **Verify**
-- evitare duplicazioni e link rotti (404)
-
----
-
-## 🔑 IPR — Chiave d’Accesso
-
-**IPR (Identity / Intention / Proof Root)** è la **radice identitaria verificabile**
-dell’ecosistema HERMETICUM B.C.E.
-
-Caratteristiche:
-- tracciabilità crittografica
-- verifica pubblica
-- collegabilità istituzionale  
-  (CIE / SPID / Codice Fiscale come metadati e riferimenti)
-
-🔗 Verifica pubblica IPR:
-- https://manuelcoletta1-source.github.io/manuhell/
+Non è una singola piattaforma,
+ma un **ecosistema di nodi interoperabili**.
 
 ---
 
-## 🧭 Sezioni del Portale
-
-Il portale pubblicato tramite **GitHub Pages** espone quattro sezioni principali:
-
-- **IPR** — identità, verifica, registro
-- **Services** — servizi tecnico-giuridici e layer architetturali
-- **Technology** — stack software e moduli computabili
-- **Verify** — prove pubbliche, ancoraggi, CID, timestamp
-
-URL del portale:
-- https://manuelcoletta1-source.github.io/hermeticum-bce/
+## Obiettivo
+Costruire un ambiente digitale in cui:
+- l’identità è certa
+- le decisioni sono tracciate
+- gli eventi sono auditabili
+- la sicurezza è opponibile
+- la governance è verificabile
 
 ---
 
-## 🔗 Collegamenti Principali
+## Architettura modulare
+Hermeticum B.C.E. è composto da:
 
-### Services
-- Hermeticum B.C.E. — Services  
-  https://manuelcoletta1-source.github.io/hermeticum-bce-services/
+- **Registro UE IPR** — identità primaria e continuità
+- **GitJoker (AIJOKER-C2)** — operatività su Git con AI controllata
+- **OPC** — policy core e vincoli tecnici
+- **UNEBDO** — evidenze e tempo opponibile
+- **MetaExchange** — scambi tracciati
+- **Io-Space** — dominio identitario e percettivo
+- **NeuroLoop** — sistema clinico UE
+- **CyberGlobal** — cybersicurezza europea opponibile
 
-### Technology
-- GitJoker-C2 (orchestrazione, audit, CI)  
-  https://github.com/manuelcoletta1-source/gitjoker-c2
-
-*(Ulteriori moduli tecnologici sono collegati dai rispettivi repository dedicati.)*
-
----
-
-## 📐 Regole di Progetto
-
-- **1 repository = 1 funzione**
-- **Il portale non esegue, indirizza**
-- **Il codice vive solo nei repo dedicati**
-- **GitHub Pages con `index.html` stabile in root**
-- **IPR come asse semantico centrale**
+Ogni nodo ha un ruolo specifico e non sovrapposto.
 
 ---
 
-## 📌 Stato
-
-🟢 **ATTIVO**  
-Portale pubblico operativo · navigazione stabile · coordinamento ecosistema.
+## Principi architetturali
+- **Identity-first**
+- **Audit-first**
+- **Fail-closed**
+- **Opponibilità tecnica**
+- **Interoperabilità UE**
 
 ---
 
-## © Autore e Fondatore
+## Ambito UE
+Hermeticum B.C.E. è concepito per:
+- **Horizon Europe**
+- **AI Act UE**
+- **NIS2 / CER**
+- **eIDAS / ETSI**
 
-**Manuel Coletta**  
-HERMETICUM B.C.E.
+Non sostituisce registri o certificazioni pubbliche,
+ma fornisce **supporto tecnico-documentale verificabile**.
+
+---
+
+## Stato
+- **Stato:** ATTIVO
+- **Categoria:** European Digital Infrastructure
+- **Livello:** UE-ready / Horizon-compatible
+
+---
+
+## Link principali
+- Hub: https://manuelcoletta1-source.github.io/hermeticum-bce/
+- Registro UE IPR: https://manuelcoletta1-source.github.io/ue-ipr-registry/
+- GitJoker: https://manuelcoletta1-source.github.io/gitjoker-c2/
+- OPC: https://manuelcoletta1-source.github.io/opc/
+- UNEBDO: https://manuelcoletta1-source.github.io/unebdo/
+- MetaExchange: https://manuelcoletta1-source.github.io/metaexchange/
+- Io-Space: https://manuelcoletta1-source.github.io/iospace/
+- NeuroLoop: https://manuelcoletta1-source.github.io/neuroloop/
+- CyberGlobal: https://manuelcoletta1-source.github.io/cyberglobal/
+
+---
+
+© 2026 — **HERMETICUM B.C.E. S.r.l.**  
+Fondatore: **Manuel Coletta**
